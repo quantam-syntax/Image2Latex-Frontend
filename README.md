@@ -30,6 +30,12 @@ It connects to a Flask backend API that performs OCR → LaTeX conversion.
 ```bash
 git clone https://github.com/quantam-syntax/Image2Latex-Frontend.git
 cd Image2Latex-Frontend
+```
+2️⃣ Install dependencies
+```bash
 npm install
+```
+3️⃣ Start the development server
+```bash
 npm start
 ```
