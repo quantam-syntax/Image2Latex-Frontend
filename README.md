@@ -32,7 +32,7 @@ cd Image2Latex-Frontend
 ```
 2️⃣ Install dependencies
 ```bash
-npm install
+npm start
 ```
 3️⃣ Start the development server
 ```bash
