@@ -153,7 +153,6 @@ export default function App() {
           z-index: 0;
         }
       `}</style>
->>>>>>> 22cdbb1 (Commiting the updated frontend design)
     </div>
   );
 }
