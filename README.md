@@ -38,3 +38,22 @@ npm install
 ```bash
 npm start
 ```
+🤝 Contributing
+```
+Fork this repository and clone your forked repository
+```
+1. Create a new branch
+```
+git checkout -b feature/new
+```
+2. Make your changes
+
+3. Commit and push
+```
+git add .  
+git commit -m "feat: improved frontend"  
+git push origin feature/new
+```
+Open a Pull Request to the main repository on GitHub 🚀
+
+If you find bugs or have ideas for improvements, open a New Issue in the Issues tab and describe your suggestion or problem clearly.
