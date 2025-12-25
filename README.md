@@ -39,16 +39,16 @@ npm install
 npm start
 ```
 ## 🤝 Contributing
-```
-Fork this repository and clone your forked repository
-```
-1. Create a new branch
+
+1. Fork this repository and clone your forked repository
+
+2. Create a new branch
 ```
 git checkout -b feature/new
 ```
-2. Make your changes
+3. Make your changes
 
-3. Commit and push
+4. Commit and push
 ```
 git add .  
 git commit -m "feat: improved frontend"  
